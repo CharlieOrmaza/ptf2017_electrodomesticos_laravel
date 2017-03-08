@@ -5,12 +5,33 @@
 
 Para entender bien como funciona una pagina web usando Laravel, primero tenes que saber de:
 
+- PHP.
+- Programacion orientada a objetos usando PHP.
+- Arquitectura Modelo-Vista-Controlador.
+- Base de datos MySQL.
+- Saber que es ORM, y usarlo con Laravel.
+
+## Que es y para sirve Laravel?
+
+Laravel tiene como objetivo ser un framework que permita el uso de una sintaxis elegante y expresiva para crear código de forma sencilla y permitiendo multitud de funcionalidades. Intenta aprovechar lo mejor de otros frameworks y aprovechar las características de las últimas versiones de PHP.
+
+Gran parte de Laravel está formado por dependencias, especialmente de Symfony, esto implica que el desarrollo de Laravel dependa también del desarrollo de sus dependencias.
+
+## Introducción
+
+En este tutorial, vamos a aprender paso a paso, como desarrollar desde cero una aplicacion hecha con el framework Laravel, empezando por como configurar dentro de un servidor XAMPP la aplicacion, pasando por la configuracion de la base de datos, hasta ver como funciona en un navegador, una pagina similar a las que se usan para mostrar electrodomesticos.
+
+## Contenidos
+
+1. Instalar la Aplicación y verla en un navegador
+2. Cosas importantes de Laravel
+3. Comandos importantes Laravel
+
+
+## Referencias
+
 - [PHP](http://php.net/manual/es/index.php).
 - [Programacion orientada a objetos usando PHP](https://styde.net/php-y-programacion-orientada-a-objetos/).
 - [Arquitectura Modelo-Vista-Controlador](https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador).
-- [Base de datos MySQL](https://www.tutorialesprogramacionya.com/mysqlya/).
-- [Saber que es ORM, y usarlo con Laravel](https://styde.net/aprende-a-usar-eloquent-el-orm-de-laravel/).
-
-## Que es y para que es?
-
-Es un proyecto basico de una pagina de electrodomesticos hecho con el framework de PHP llamado Laravel, la cual tambien contiene un formulario para poder cargar contactos y visualizarlos a través de un listado del mismo.
+- [MySQL](https://www.tutorialesprogramacionya.com/mysqlya/).
+- [Eloquent](https://styde.net/aprende-a-usar-eloquent-el-orm-de-laravel/).
