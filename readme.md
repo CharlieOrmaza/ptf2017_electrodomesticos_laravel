@@ -23,7 +23,7 @@ En este tutorial, vamos a aprender paso a paso, como desarrollar desde cero una 
 
 ## Contenidos
 
-1. [Instalar la Aplicación y verla en un navegador](/docs/instaladores.html)
+1. [Instalar la Aplicación y verla en un navegador](/docs/instaladores.md)
 2. Cosas importantes de Laravel
 3. Comandos importantes Laravel
 
