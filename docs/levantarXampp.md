@@ -1,0 +1,4 @@
+1.	Levantamos el servidor de XAMPP, a través del panel de control del mismo; esto se hace abriendo el archivo xampp-control.exe, que está en la carpeta C:\xampp. (Si no se abre automáticamente, ir a la barra de herramientas, donde aparece el icono de XAMPP, hacer click con botón derecho, y presionar la opción Show/hide)
+2.	Una vez abierto el panel de control, damos click en Start, tanto para la opción de Apache como para la de MySQL.
+3.	En este punto, ya debemos tener levantado el servidor, y para probarlo, vamos al siguiente link: [http://localhost/xampp/](http://localhost/xampp/), donde deberíamos ver la pantalla de administración de XAMPP.
+4.	Ahora vamos  a abrir la consola y vamos a ir hasta la carpeta htdocs de XAMPP, que por ejemplo, si yo instale XAMPP en el disco C, estaría en C:\xampp\htdocs, a través del comando cd (cd /c/xampp/htdocs).

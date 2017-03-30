@@ -24,8 +24,11 @@ En este tutorial, vamos a aprender paso a paso, como desarrollar desde cero una 
 ## Contenidos
 
 1. [Instalar la Aplicación y verla en un navegador](/docs/instaladores.md)
-2. Cosas importantes de Laravel
-3. Comandos importantes Laravel
+2. [Levantar servidor XAMPP](/docs/levantarXampp.md)
+3. [Instalar Laravel](/docs/instalarLaravel.md)
+4. [Crear base de datos y arrancar la aplicacion] (/docs/crearBaseDatos.md)
+5. [Cosas importantes de Laravel] (/docs/cosasImportantes.md)
+6. [Comandos importantes Laravel](/docs/comandosImportantes.md)
 
 
 ## Referencias
