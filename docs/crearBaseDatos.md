@@ -10,3 +10,7 @@
 2. Una vez creada la base de datos, hay que ejecutar el siguiente comando en la consola: php artisan migrate, el cual creara automáticamente las tablas que vamos a usar.
 3. Una vez creadas las tablas, hay que ejecutar el siguiente comando en la consola: php artisan db:seed. Este comando, lo que hará, será agregar los datos que vamos a usar en la base de datos. Los Seeders, son usados para crear datos en las tablas que tenemos, para poder hacer pruebas, o insertar datos por default.
 4. Una vez instalado todo, podemos entrar a nuestro proyecto desde el navegador, a través de la siguiente URL: [http://localhost/pagina_electrodomesticos/public/](http://localhost/pagina_electrodomesticos/public/), donde vamos a ver nuestra página home, y poder navegar a las demás páginas, como la de contactos.
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
