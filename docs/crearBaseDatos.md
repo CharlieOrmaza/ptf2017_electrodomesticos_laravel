@@ -1,2 +1,2 @@
-1. Ahora vamos a crear la base de datos, yendo a la siguiente página [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/), donde vamos a hacer lo siguiente:
+1. Ahora vamos a crear la base de datos, yendo a la siguiente página [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/), donde vamos a hacer lo siguiente
    a. Presionamos el botón de la casita, y a la derecha de la pantalla va a aparecer un menú, del cual elegimos la opción Cuentas de Usuario, una vez en esa pantalla, vamos hasta abajo, donde aparece un link que dice Agregar cuenta de usuario, entramos ahí, y hacemos lo siguiente
